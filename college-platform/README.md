@@ -1,6 +1,10 @@
 # College Finder
 
-A college discovery and comparison platform built using Next.js.
+A college search and application platform built with Next.js and TypeScript.
+
+## Live Demo
+
+https://college-finder-mauve.vercel.app/
 
 ## Features
 
