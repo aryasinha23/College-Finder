@@ -19,6 +19,7 @@ export default function ApplyPage() {
         <form
   className="space-y-5"
  onSubmit={async (e) => {
+  alert("Form Submitted");
   e.preventDefault();
 
   const formData = {
