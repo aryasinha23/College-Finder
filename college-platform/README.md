@@ -107,19 +107,19 @@ http://localhost:3000
 
 ### Home Page
 
-![Home Page](./screenshots/homepage.png)
+![Home Page](./Screenshots/homepage.png)
 
 ### College Listings
 
-![College Listings](./screenshots/college-listings.png)
+![College Listings](./Screenshots/college-listings.png)
 
 ### College Details
 
-![College Details](./screenshots/college-details.png)
+![College Details](./Screenshots/college-details.png)
 
 ### Application Form
 
-![Application Form](./screenshots/application-form.png)
+![Application Form](./Screenshots/application-form.png)
 
 ## 🗄️ Database
 
