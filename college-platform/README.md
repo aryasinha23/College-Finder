@@ -6,7 +6,7 @@ CollegeFinder helps students search, compare, save, and apply to colleges throug
 
 ## 🌐 Live Demo
 
-🔗 https://YOUR_VERCEL_URL
+🔗 https://college-finder-mauve.vercel.app/
 
 ## 📌 Features
 
@@ -65,7 +65,7 @@ college-platform/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/college-finder.git
+git clone https://github.com/aryasinha23/college-finder.git
 ```
 
 Navigate to project folder:
@@ -154,7 +154,7 @@ Contributions are welcome.
 
 Arya Sinha
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/aryasinha23
 
 ## ⭐ Support
 
