@@ -1,5 +1,10 @@
 # 🎓 CollegeFinder
 
+![Next.js](https://img.shields.io/badge/Next.js-15-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Green)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)
+
 A modern College Discovery and Application Platform built using **Next.js**, **React**, **TypeScript**, **MongoDB**, and **Tailwind CSS**.
 
 CollegeFinder helps students search, compare, save, and apply to colleges through a clean and user-friendly interface.
@@ -65,7 +70,7 @@ college-platform/
 Clone the repository:
 
 ```bash
-git clone https://github.com/aryasinha23/college-finder.git
+git clone https://github.com/aryasinha23/College-Finder.git
 ```
 
 Navigate to project folder:
