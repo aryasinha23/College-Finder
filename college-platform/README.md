@@ -65,6 +65,10 @@ college-platform/
 └── package.json
 ```
 
+## 🔗 Repository
+
+https://github.com/aryasinha23/College-Finder
+
 ## 🚀 Installation
 
 Clone the repository:
@@ -76,7 +80,7 @@ git clone https://github.com/aryasinha23/College-Finder.git
 Navigate to project folder:
 
 ```bash
-cd college-finder
+cd College-Finder
 ```
 
 Install dependencies:
